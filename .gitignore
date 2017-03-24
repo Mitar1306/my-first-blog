@@ -44,3 +44,10 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
